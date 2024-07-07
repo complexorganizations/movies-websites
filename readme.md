@@ -9,12 +9,12 @@
      - **Rewards Program**: Offers BAT tokens as rewards for opting into privacy-respecting ads, empowering users with a novel way to support content creators.
 
    - **Supported Devices**: Enjoy a seamless browsing experience across all major platforms:
-     - **Desktop**: Supports Windows, macOS, and Linux.
-     - **Mobile**: Available on iOS (iPhone, iPad) and Android devices.
+     - **Desktop**: Supports [Windows](https://brave.com/download/), [macOS](https://brave.com/download/), and [Linux](https://brave.com/download/).
+     - **Mobile**: Available on [iOS](https://apps.apple.com/us/app/brave-browser/id1052879175) (iPhone, iPad) and [Android](https://play.google.com/store/apps/details?id=com.brave.browser) devices.
 
    - **How to Install**: 
-     - **Desktop**: Download Brave from the [official website](https://brave.com/) and follow the installation prompts for your operating system.
-     - **Mobile**: Install Brave from the respective app stores (App Store for iOS, Google Play Store for Android).
+     - **Desktop**: Download Brave from the [official website](https://brave.com/download/) and follow the installation prompts for your operating system.
+     - **Mobile**: Install Brave from the respective app stores ([App Store](https://apps.apple.com/us/app/brave-browser/id1052879175) for iOS, [Google Play Store](https://play.google.com/store/apps/details?id=com.brave.browser) for Android).
 
    - **Why It's Trusted**: Trusted by millions globally, Brave not only blocks ads but also supports a faster, safer, and more private browsing experience without compromising on usability or security.
 
