@@ -148,7 +148,7 @@ This list provides a variety of options for users looking to watch movies and TV
 
 ---
 
-# Free Movie Streaming Websites
+# Free Movie Streaming Websites List
 
 | Website                                          | Mirror                                  | Status |
 | ------------------------------------------------ | --------------------------------------- | ------ |
