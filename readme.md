@@ -35,7 +35,7 @@
 
 ---
 
-### Free Movie Streaming Websites
+# Free Movie Streaming Websites
 
 1. **[FMovies24](https://fmovies24.to/)**
    - **Overview**: FMovies24 offers a vast collection of movies and TV shows across various genres, catering to a global audience seeking free streaming content.
@@ -55,4 +55,18 @@
 6. **[GoMoviesTV](https://gomoviestv.to/)**
    - **Overview**: GoMoviesTV is recognized for its extensive catalog of movies and TV series, providing free streaming options and catering to varied viewer preferences.
 
+7. **[Popcornflix](https://popcornflix.com)**
+   - **Overview**: Popcornflix offers a wide array of movies and TV shows for free streaming. It's known for its straightforward interface and regularly updated content.
+
+8. **[Crackle](https://www.crackle.com/)**
+   - **Overview**: Crackle provides a diverse selection of movies, TV shows, and original programming without subscription fees. It's popular for its exclusive content and user-friendly experience.
+
+9. **[Pluto TV](https://pluto.tv/)**
+   - **Overview**: Pluto TV offers live TV channels and a variety of movies and TV shows on-demand for free. It's known for its unique channel-based browsing experience.
+
+10. **[Tubi TV](https://tubitv.com/)**
+    - **Overview**: Tubi TV features a large collection of movies and TV shows that are free to stream. It's appreciated for its extensive library and minimal ad interruptions.
+
 **Disclaimer**: While these websites offer free streaming of movies and TV shows, users should be aware of the legal implications and copyright laws in their respective jurisdictions. It's advisable to use these platforms responsibly and ensure compliance with local regulations.
+
+This list provides a variety of options for users looking to watch movies and TV shows online without any cost. Each platform has its own unique features and content offerings, catering to different preferences and viewing experiences.
