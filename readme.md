@@ -67,6 +67,51 @@
 10. **[Tubi TV](https://tubitv.com/)**
     - **Overview**: Tubi TV features a large collection of movies and TV shows that are free to stream. It's appreciated for its extensive library and minimal ad interruptions.
 
+11. **[Flixrave](https://flixrave.to/)**
+    - **Overview**: Flixrave offers a diverse selection of movies and TV shows for free streaming, known for its user-friendly interface and updated content.
+
+12. **[Cinezone](https://cinezone.to/)**
+    - **Overview**: Cinezone provides a wide array of movies and TV series accessible without subscription fees, appealing to users for its extensive collection.
+
+13. **[Upmovies](https://upmovies.net/)**
+    - **Overview**: Upmovies features a straightforward interface for streaming movies and TV shows at no cost, attracting users with its simplicity and varied content.
+
+14. **[Vumoox](https://vumoox.to/)**
+    - **Overview**: Vumoox offers free streaming of movies and TV series, distinguishing itself with a sizable library and minimal ad interruptions.
+
+15. **[GoMovies Online](https://gomovies-online.link/)**
+    - **Overview**: GoMovies Online is recognized for its extensive catalog of movies and TV shows, providing free streaming options and catering to varied viewer preferences.
+
+16. **[BMovies](https://bmovies.vip/)**
+    - **Overview**: BMovies features a user-friendly platform for streaming movies and TV series without cost, favored by users for its ease of use and comprehensive media library.
+
+17. **[MoviesJoy](https://moviesjoy.plus/)**
+    - **Overview**: MoviesJoy offers a wide array of movies and TV shows for free streaming, known for its updated content and minimal ad interference.
+
+18. **[YesMovies](https://ww.yesmovies.ag/)**
+    - **Overview**: YesMovies provides a diverse collection of movies and TV shows for free streaming, appealing to users for its extensive library and ease of navigation.
+
+19. **[Afdah](https://afdah2.cyou/)**
+    - **Overview**: Afdah offers a straightforward interface for streaming movies and TV series without cost, recognized for its simplicity and comprehensive media collection.
+
+20. **[M4ufree](https://ww2.m4ufree.tv/)**
+    - **Overview**: M4ufree.tv provides a variety of movies and TV shows for free streaming, known for its user-friendly interface and updated content selection.
+
+21. **[Putlocker VIP](https://ww.putlocker.vip/)**
+    - **Overview**: Putlocker VIP is a popular platform for streaming movies and TV shows online for free, favored by users for its extensive content selection.
+
+22. **[PrimeWire](https://www.primewire.li/)**
+    - **Overview**: PrimeWire offers a diverse selection of movies and TV shows, allowing users to stream content without subscription fees, known for its community-driven approach.
+
+23. **[123Movies](https://123movies.ai/)**
+    - **Overview**: 123Movies features a vast collection of movies and TV series for free streaming, appreciated for its extensive library and ease of access.
+
+24. **[SolarMovie](https://solarmovie.vip/)**
+    - **Overview**: SolarMovie provides a wide range of movies and TV shows for free streaming, known for its intuitive interface and updated content.
+
+25. **[Zmovies](https://zmoviess.co/)**
+    - **Overview**: Zmovies offers a diverse selection of movies and TV shows available for free streaming, attracting users with its varied content and minimal ads.
+
 **Disclaimer**: While these websites offer free streaming of movies and TV shows, users should be aware of the legal implications and copyright laws in their respective jurisdictions. It's advisable to use these platforms responsibly and ensure compliance with local regulations.
 
 This list provides a variety of options for users looking to watch movies and TV shows online without any cost. Each platform has its own unique features and content offerings, catering to different preferences and viewing experiences.
