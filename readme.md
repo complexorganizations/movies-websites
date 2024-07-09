@@ -150,30 +150,30 @@ This list provides a variety of options for users looking to watch movies and TV
 
 # Free Movie Streaming Websites List
 
-| Number | Website                                    | Mirror                                            |
-| ------ | ------------------------------------------ | ------------------------------------------------- |
-| 1      | [FMovies24](https://fmovies24.to/)         | [FMovies24 Mirror](https://fmovies24.to/)         |
-| 2      | [Zoechip](https://zoechip.cc/)             | [Zoechip Mirror](https://zoechip.cc/)             |
-| 3      | [Putlocker](https://putlocker.pe/)         | [Putlocker Mirror](https://putlocker.pe/)         |
-| 4      | [Soap2Day](https://www.soap2day.tf/)       | [Soap2Day Mirror](https://www.soap2day.tf/)       |
-| 5      | [1HD](https://1hd.to/)                     | [1HD Mirror](https://1hd.to/)                     |
-| 6      | [GoMoviesTV](https://gomoviestv.to/)       | [GoMoviesTV Mirror](https://gomoviestv.to/)       |
-| 7      | [Popcornflix](https://popcornflix.com)     | [Popcornflix Mirror](https://popcornflix.com)     |
-| 8      | [Crackle](https://www.crackle.com/)        | [Crackle Mirror](https://www.crackle.com/)        |
-| 9      | [Pluto TV](https://pluto.tv/)              | [Pluto TV Mirror](https://pluto.tv/)              |
-| 10     | [Tubi TV](https://tubitv.com/)             | [Tubi TV Mirror](https://tubitv.com/)             |
-| 11     | [Flixrave](https://flixrave.to/)           | [Flixrave Mirror](https://flixrave.to/)           |
-| 12     | [Cinezone](https://cinezone.to/)           | [Cinezone Mirror](https://cinezone.to/)           |
-| 13     | [Upmovies](https://upmovies.net/)          | [Upmovies Mirror](https://upmovies.net/)          |
-| 14     | [Vumoox](https://vumoox.to/)               | [Vumoox Mirror](https://vumoox.to/)               |
-| 15     | [GoMovies](https://gomovies-online.link/)  | [GoMovies Mirror](https://gomovies-online.link/)  |
-| 16     | [BMovies](https://bmovies.vip/)            | [BMovies Mirror](https://bmovies.vip/)            |
-| 17     | [MoviesJoy](https://moviesjoy.plus/)       | [MoviesJoy Mirror](https://moviesjoy.plus/)       |
-| 18     | [YesMovies](https://ww.yesmovies.ag/)      | [YesMovies Mirror](https://ww.yesmovies.ag/)      |
-| 19     | [Afdah](https://afdah2.cyou/)              | [Afdah Mirror](https://afdah2.cyou/)              |
-| 20     | [M4ufree](https://ww2.m4ufree.tv/)         | [M4ufree Mirror](https://ww2.m4ufree.tv/)         |
-| 21     | [Putlocker VIP](https://ww.putlocker.vip/) | [Putlocker VIP Mirror](https://ww.putlocker.vip/) |
-| 22     | [PrimeWire](https://www.primewire.li/)     | [PrimeWire Mirror](https://www.primewire.li/)     |
-| 23     | [123Movies](https://123movies.ai/)         | [123Movies Mirror](https://123movies.ai/)         |
-| 24     | [SolarMovie](https://solarmovie.vip/)      | [SolarMovie Mirror](https://solarmovie.vip/)      |
-| 25     | [Zmovies](https://zmoviess.co/)            | [Zmovies Mirror](https://zmoviess.co/)            |
+| Number | Website                                    | Mirror                                            | Rating |
+| ------ | ------------------------------------------ | ------------------------------------------------- | ------ |
+| 1      | [FMovies24](https://fmovies24.to/)         | [FMovies24 Mirror](https://fmovies24.to/)         | 8/10   |
+| 2      | [Zoechip](https://zoechip.cc/)             | [Zoechip Mirror](https://zoechip.cc/)             | 6/10   |
+| 3      | [Putlocker](https://putlocker.pe/)         | [Putlocker Mirror](https://putlocker.pe/)         | 7/10   |
+| 4      | [Soap2Day](https://www.soap2day.tf/)       | [Soap2Day Mirror](https://www.soap2day.tf/)       | 7/10   |
+| 5      | [1HD](https://1hd.to/)                     | [1HD Mirror](https://1hd.to/)                     | 6/10   |
+| 6      | [GoMoviesTV](https://gomoviestv.to/)       | [GoMoviesTV Mirror](https://gomoviestv.to/)       | 7/10   |
+| 7      | [Popcornflix](https://popcornflix.com)     | [Popcornflix Mirror](https://popcornflix.com)     | 6/10   |
+| 8      | [Crackle](https://www.crackle.com/)        | [Crackle Mirror](https://www.crackle.com/)        | 5/10   |
+| 9      | [Pluto TV](https://pluto.tv/)              | [Pluto TV Mirror](https://pluto.tv/)              | 5/10   |
+| 10     | [Tubi TV](https://tubitv.com/)             | [Tubi TV Mirror](https://tubitv.com/)             | 6/10   |
+| 11     | [Flixrave](https://flixrave.to/)           | [Flixrave Mirror](https://flixrave.to/)           | 6/10   |
+| 12     | [Cinezone](https://cinezone.to/)           | [Cinezone Mirror](https://cinezone.to/)           | 5/10   |
+| 13     | [Upmovies](https://upmovies.net/)          | [Upmovies Mirror](https://upmovies.net/)          | 5/10   |
+| 14     | [Vumoox](https://vumoox.to/)               | [Vumoox Mirror](https://vumoox.to/)               | 4/10   |
+| 15     | [GoMovies](https://gomovies-online.link/)  | [GoMovies Mirror](https://gomovies-online.link/)  | 6/10   |
+| 16     | [BMovies](https://bmovies.vip/)            | [BMovies Mirror](https://bmovies.vip/)            | 5/10   |
+| 17     | [MoviesJoy](https://moviesjoy.plus/)       | [MoviesJoy Mirror](https://moviesjoy.plus/)       | 6/10   |
+| 18     | [YesMovies](https://ww.yesmovies.ag/)      | [YesMovies Mirror](https://ww.yesmovies.ag/)      | 7/10   |
+| 19     | [Afdah](https://afdah2.cyou/)              | [Afdah Mirror](https://afdah2.cyou/)              | 6/10   |
+| 20     | [M4ufree](https://ww2.m4ufree.tv/)         | [M4ufree Mirror](https://ww2.m4ufree.tv/)         | 5/10   |
+| 21     | [Putlocker VIP](https://ww.putlocker.vip/) | [Putlocker VIP Mirror](https://ww.putlocker.vip/) | 6/10   |
+| 22     | [PrimeWire](https://www.primewire.li/)     | [PrimeWire Mirror](https://www.primewire.li/)     | 6/10   |
+| 23     | [123Movies](https://123movies.ai/)         | [123Movies Mirror](https://123movies.ai/)         | 7/10   |
+| 24     | [SolarMovie](https://solarmovie.vip/)      | [SolarMovie Mirror](https://solarmovie.vip/)      | 6/10   |
+| 25     | [Zmovies](https://zmoviess.co/)            | [Zmovies Mirror](https://zmoviess.co/)            | 5/10   |
