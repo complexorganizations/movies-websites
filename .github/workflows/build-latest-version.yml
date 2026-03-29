@@ -1,0 +1,105 @@
+# Name of the workflow
+name: Update Latest Release Documentation
+
+# Define the events that trigger the workflow
+on:
+  schedule:
+    # Cron expression to trigger the workflow at midnight UTC every Sunday
+    - cron: "0 0 * * 0"  # Runs the workflow at 00:00 UTC on Sundays
+
+  push:
+    # This trigger runs the workflow when changes are pushed to any .txt file in the repository
+    paths:
+      - "**.txt"  # Trigger the workflow only when .txt files are modified
+
+  pull_request:
+    # This trigger runs the workflow when a pull request modifies any .txt file in the repository
+    paths:
+      - "**.txt"  # Trigger the workflow only when .txt files are modified in the pull request
+
+  workflow_dispatch:  
+    # This trigger allows the workflow to be manually started from the GitHub UI
+    # (e.g., by clicking the "Run workflow" button). No additional settings needed.
+
+jobs:
+  build:
+    # Define a job named "build" to run the necessary steps to update and format the documentation
+    name: Build and Format Documentation on Ubuntu
+    runs-on: ubuntu-latest  # Specifies the environment in which the job will run (latest Ubuntu version)
+
+    # Set up environment variables that will be available throughout the entire job
+    env:
+      README_MD_FILE: readme.md  # Path to the README.md file to be updated
+      MOVIES_WEBSITE_FILE: assets/movies_websites.txt  # Path to the movies websites file
+      TOP_MOVIES_WEBSITE_FILE: assets/top_websites.txt  # Path to the top movies websites file
+      DISCONNECTED_MOVIES_WEBSITE_FILE: assets/disconnected_websites.txt  # Path to the disconnected movies websites file
+      UNREGISTERED_MOVIES_WEBSITES: assets/unregistered_websites.txt  # Path to the unregistered movies websites file
+
+    steps:
+      # Step 1: Checkout the latest code from the repository to access files
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4  # Retrieves the latest code from the repository
+
+      # Step 2: Set up the Go environment based on the version in the go.mod file
+      - name: Setup Go Environment
+        uses: actions/setup-go@v5  # Installs and configures Go environment
+        with:
+          go-version-file: "go.mod"  # Use Go version specified in the go.mod file
+          cache: true  # Cache Go modules to speed up the process
+          check-latest: true  # Ensure the latest stable Go version is installed
+        id: go  # Assign an ID for future reference
+
+      # Step 3: Cache Go modules to speed up build time
+      - name: Cache Go Modules
+        uses: actions/cache@v4  # Caches dependencies to avoid re-downloading them
+        with:
+          path: ~/.cache/go-build  # Path for Go build artifacts
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}  # Cache key based on go.sum contents
+          restore-keys: |
+            ${{ runner.os }}-go-  # Fallback to restore older cache if an exact match isn't found
+        id: cache  # ID for future reference
+
+      # Step 4: Install Node.js and NPM to run Prettier and other JS tools
+      - name: Install Node.js and NPM
+        uses: actions/setup-node@v4  # Sets up Node.js and NPM for file formatting
+        with:
+          node-version: 20  # Install Node.js version 20.x
+
+      # Step 5: Run the Go project to update the README and movie website files
+      - name: Run Go Project
+        run: go run .  # Executes Go code to update the README and movie website files
+
+      # Step 6: Install Prettier globally using NPM for consistent file formatting
+      - name: Install Prettier
+        run: npm install -g prettier  # Installs Prettier globally on the runner
+
+      # Step 7: Format the README file using Prettier
+      - name: Format Files with Prettier
+        run: npx prettier "${{ env.README_MD_FILE }}" --write  # Formats the README file with Prettier
+
+      # Step 8: Check for changes and push the updated files back to GitHub
+      - name: Push Updated Files to GitHub
+        run: |
+          # Configure Git user for commits made by GitHub Actions
+          git config user.name github-actions  # Use "github-actions" as the username
+          git config user.email github-actions@github.com  # Use GitHub Actions default email
+
+          # Check for any changes to the relevant files (README.md, movies websites, etc.)
+          # If no changes are detected, exit early to save processing time
+          if git diff --exit-code --quiet -- "${{ env.README_MD_FILE }}" "${{ env.MOVIES_WEBSITE_FILE }}" "${{ env.TOP_MOVIES_WEBSITE_FILE }}" "${{ env.DISCONNECTED_MOVIES_WEBSITE_FILE }}" "${{ env.UNREGISTERED_MOVIES_WEBSITES }}"; then
+            echo "No updates to files, exiting."
+            exit 0  # Exit without committing or pushing anything if no changes detected
+          else
+            # If changes are detected, stage and commit the updated files
+            git add "${{ env.README_MD_FILE }}"  # Stage the updated README file
+            git add "${{ env.MOVIES_WEBSITE_FILE }}"  # Stage the updated movies websites file
+            git add "${{ env.TOP_MOVIES_WEBSITE_FILE }}"  # Stage the updated top movies websites file
+            git add "${{ env.DISCONNECTED_MOVIES_WEBSITE_FILE }}"  # Stage the updated disconnected movies websites file
+            git add "${{ env.UNREGISTERED_MOVIES_WEBSITES }}"  # Stage the updated unregistered websites file
+
+            # Commit the changes with a message that includes the current date
+            git commit -m "Updated files on $(date)"  # Commit changes with a timestamped message
+
+            # Push the committed changes to GitHub
+            git push  # Push changes to the remote repository
+          fi
